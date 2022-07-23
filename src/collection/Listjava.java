@@ -26,7 +26,11 @@ in.add(3);
 in.add(2);
 in.add(6);
 System.out.println(in);
+System.out.println("given");
 System.out.println("added");
+
+
+
 
 }
 }
